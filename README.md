@@ -1,4 +1,4 @@
-# YourLastName-Java
+# Java
 
 ## Description
 This project contains a basic algorithm implemented in Java to fulfill the technical task for the QA Automation traineeship.
