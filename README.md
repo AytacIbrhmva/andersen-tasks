@@ -25,7 +25,7 @@ Input a list of numbers and print those that are divisible by 3.
 
 **Reason:**  
 The bracket sequence [((())()(())]] is not correct because the brackets are not balanced. The first round bracket ( is never closed.
-To fix it, the second-to-last square bracket ] should be replaced with a round bracket ). The correct sequence is:
+To fix it, the second-to-last square bracket "]" should be replaced with a round bracket ")". The correct sequence is:
 
 **Corrected sequence:**  
 [((())()(()))]
